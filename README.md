@@ -1,6 +1,5 @@
 # Zenkast
-Intern Project || Census data analysis with great visualizations
-
+Census data analysis with great visualizations.<br>
 Data exploration based on given information. The json file has boundaries.
 Excel file has datapoints which are to be plotted.
  
